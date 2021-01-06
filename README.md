@@ -15,5 +15,34 @@ npm start
   
 The user should see the shots below
 
-![first]()
+![first](./img/z1)
+
+
+
+![first](./img/z2)
+
+
+
+
+![first](./img/z3)
+
+
+
+
+![first](./img/z4)
+
+
+
+
+![first](./img/z5)
+
+
+
+
+![first](./img/z6)
+
+
+
+
+
   
