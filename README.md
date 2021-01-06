@@ -13,7 +13,7 @@ npm start
   
   
   
-The user should see the shots below
+The user should see the shots below, and also the user should see the CoinDrive logo on the tab...
 
 ![first](./img/z1.png)
 
