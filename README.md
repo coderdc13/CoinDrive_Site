@@ -15,31 +15,31 @@ npm start
   
 The user should see the shots below
 
-![first](./img/z1)
+![first](./img/z1.png)
 
 
 
-![first](./img/z2)
-
-
-
-
-![first](./img/z3)
+![first](./img/z2.png)
 
 
 
 
-![first](./img/z4)
+![first](./img/z3.png)
 
 
 
 
-![first](./img/z5)
+![first](./img/z4.png)
 
 
 
 
-![first](./img/z6)
+![first](./img/z5.png)
+
+
+
+
+![first](./img/z6.png)
 
 
 
